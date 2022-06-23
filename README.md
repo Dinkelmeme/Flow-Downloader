@@ -8,6 +8,9 @@ No Ads, Stupid Websites (that propably arent THAT legal) and most importantly, a
 
 Flow Downloader is available as .exe for Windows (Standalone) and as a .py for Linux, macOS and any other OS that supports Python  (NOTE: for the .py Version to work, you need to have Python installed.)
 
+![image](https://user-images.githubusercontent.com/80765567/175318403-5c91e9bc-9d6e-4d21-b3f1-069fda57a75d.png)
+
+
 =!== DISCLAIMER ==!=
 
 This is for educational purposes only and i will not be responsable for any copyright/legal trouble that YOU do with this software!
