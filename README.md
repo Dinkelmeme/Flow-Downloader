@@ -1,6 +1,9 @@
 # Flow-Downloader
 A Simple Open-Source YouTube Video Downloader using the pytube API
 
+![image](https://user-images.githubusercontent.com/80765567/175318037-048a75ee-e925-4f35-b57d-4039900bfc52.png)
+
+
 No Ads, Stupid Websites (that propably arent THAT legal) and most importantly, a simple to use design. Just open the software and put in the youtube URL and the video will be directly downloaded with the best available quality. The Video will appear in the Folder where the Programm is located.
 
 Flow Downloader is available as .exe for Windows (Standalone) and as a .py for Linux, macOS and any other OS that supports Python  (NOTE: for the .py Version to work, you need to have Python installed.)
