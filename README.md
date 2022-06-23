@@ -5,6 +5,7 @@ A Simple Open-Source YouTube Video Downloader using the pytube API
 
 
 No Ads, Stupid Websites (that propably arent THAT legal) and most importantly, a simple to use design. Just open the software and put in the youtube URL and the video will be directly downloaded with the best available quality. The Video will appear in the Folder where the Programm is located.
+
 ![image](https://user-images.githubusercontent.com/80765567/175318469-41ff466a-e8d2-45f4-a7de-75429ba7fd9f.png)
 
 
